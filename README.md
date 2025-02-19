@@ -188,7 +188,7 @@ print("Decryption message: ", message)
 
 else:
 
-print("YOU ARE NOT auth")
+print("YOU ARE NOT authorized")
 
 2. Paste the code into the steganography.py file.
 
