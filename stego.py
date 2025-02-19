@@ -41,4 +41,4 @@ if password == pas:
         z = (z + 1) % 3
     print("Decryption message:", message)
 else:
-    print("YOU ARE NOT auth")
+    print("YOU ARE NOT authorized")
